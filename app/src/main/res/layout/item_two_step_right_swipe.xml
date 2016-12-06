@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apps.xenione.com.swipelayout.example.swipe.TwoStepRightCoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/item_height">
+
+    <LinearLayout
+        android:id="@id/backgroundView"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/delete"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@color/colorAccent"
+            android:padding="@dimen/button_padding"
+            android:src="@drawable/ic_delete" />
+
+        <ImageButton
+            android:id="@+id/action"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:padding="@dimen/button_padding"
+            android:background="@color/colorSecondaryAccent"
+            android:src="@drawable/ic_action" />
+    </LinearLayout>
+
+    <include layout="@layout/item_foreground_swipe" />
+
+</apps.xenione.com.swipelayout.example.swipe.TwoStepRightCoordinatorLayout>

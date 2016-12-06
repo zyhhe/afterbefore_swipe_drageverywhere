@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_rightswipe"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Rigth Swipe" />
+        <item
+            android:id="@+id/nav_half_swipe"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Half Swipe" />
+
+        <item
+            android:id="@+id/nav_two_step_swipe"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Two Step Swipe" />
+
+        <item
+            android:id="@+id/nav_both_side_swipe"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Both Side Swipe" />
+
+        <item
+            android:id="@+id/nav_right_drag_swipe"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Right Drag Swipe" />
+        <item
+            android:id="@+id/nav_right_drag_friction_swipe"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Right Drag Friction Swipe" />
+
+        <item
+            android:id="@+id/nav_vertical_swipe"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Vertical Swipe" />
+
+    </group>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+        </menu>
+    </item>
+
+</menu>

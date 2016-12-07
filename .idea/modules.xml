@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beforeafter_swipe_drageverywhere.iml" filepath="$PROJECT_DIR$/beforeafter_swipe_drageverywhere.iml" />
       <module fileurl="file://$PROJECT_DIR$/swipe-maker-master.iml" filepath="$PROJECT_DIR$/swipe-maker-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipemaker/swipemaker.iml" filepath="$PROJECT_DIR$/swipemaker/swipemaker.iml" />
       <module fileurl="file://$PROJECT_DIR$/swipemaker/swipemaker.iml" filepath="$PROJECT_DIR$/swipemaker/swipemaker.iml" />
     </modules>
   </component>

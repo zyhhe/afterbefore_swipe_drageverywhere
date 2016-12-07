@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Easy Swipe Maker
 
 From the library to build your own swipeout item views. These examples will only take 5 minutes each. Have a look at the demos app available on [google play](https://play.google.com/store/apps/details?id=apps.xenione.com.swipelayout)
@@ -171,3 +172,7 @@ find out more at [github](https://github.com/xenione/BeforeAfterEffect)
 
 
 
+=======
+# afterbefore_swipe_drageverywhere
+drag the divide and stop anywhere,and set the init divide position
+>>>>>>> 7346f0688ee3ce780094eaad78d19aa98d5c82ac
